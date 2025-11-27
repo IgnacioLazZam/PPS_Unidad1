@@ -7,7 +7,7 @@ Proyecto que implementa funciones para validación de números binarios, verific
 ## 👤 Autor
 
 **Ignacio Lázaro Zambrano**  
-IES Campanillas - Curso de Especialista en Ciberseguridad 21-22
+
 
 ## 🚀 Características
 
